@@ -29,3 +29,6 @@ These are the the seven continents:
 6. Antarctica
 7. Australia 
 
+# Caitlin's contribtution 
+## San Francisco
+Recently I visited San Francisco, en route to UC Davis for a conference. I especially enjoyed the California Academy of Sciences which is an amazing natural history museum, wtih an aquarium and planetarium. 
